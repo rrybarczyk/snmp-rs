@@ -1,0 +1,10 @@
+[package]
+name        = "snmp-rs"
+version     = "0.0.0"
+edition     = "2021"
+authors     = ["Rachel Rybarczyk <rj@rybar.tech>"]
+license     = "CC0-1.0"
+description = "Asynchronous SNMP library"
+repository  = "https://github.com/rrybarczyk/snmp-rs"
+
+[dependencies]
